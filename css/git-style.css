@@ -1,0 +1,20 @@
+/* ------ STYLES ------ */
+ /* Wrapper Styles */
+ .site_page_subnav
+{
+	padding:0
+}
+
+ .headerModule,.layout_user_tools .module-content
+{
+	padding:.5em 5%
+}
+ #main_responsive_nav
+{
+	padding:0 5%;
+	-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);
+	box-shadow:0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12)
+}
+/* End Wrapper Styles */
+
+/* ------ END STYLES ------ */
